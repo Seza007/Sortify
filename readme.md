@@ -46,8 +46,6 @@ Sortify/
 ├── Sortify-concept-and-design.pdf # Full documentation
 └── README.md # This file
 
-text
-
 ---
 
 ## 🔧 Installation
