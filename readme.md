@@ -29,23 +29,24 @@ Globally, poor waste segregation and manual collection methods pose risks to hea
 
 ## 📁 Project Structure
 
-Sortify/
+<pre>'''Sortify/
 │
-├── code/ # Source code for ML, bot control, and IoT
-│ ├── detection/ # Object detection scripts (OpenCV/ML)
-│ ├── iot/ # IoT control and reporting architecture
-│ ├── navigation/ # Bot movement, mapping and obstacle avoidance
-│ └── utils/ # Helper functions, hardware control
+├── code/                      # Source code for ML, bot control, and IoT
+│   ├── detection/             # Object detection scripts (OpenCV/ML)
+│   ├── iot/                   # IoT control and reporting architecture
+│   ├── navigation/            # Bot movement, mapping, and obstacle avoidance
+│   └── utils/                 # Helper functions, hardware control
 │
-├── models/ # Pre-trained ML models
+├── models/                    # Pre-trained ML models for object classification
 │
-├── hardware/ # Microcontroller schematics and BOM
+├── hardware/                  # Microcontroller schematics and bill of materials (BOM)
 │
-├── docs/ # Research papers, design concepts
+├── docs/                      # Research papers, design documentation
 │
-├── Sortify-concept-and-design.pdf # Full documentation
-└── README.md # This file
-
+├── Sortify-concept-and-design.pdf   # Full concept documentation PDF
+│
+└── README.md                  # Project overview and usage instructions
+'''</pre>
 ---
 
 ## 🔧 Installation
